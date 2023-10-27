@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.box{
+ display: 'flex';
+  flex-direction: 'column';
+  gap: 10px;
+
+}
+
+.reset{
+  margin-top: 29px;
+  width:200px;
+  height:70px;
+  font-size: 40;
+
+}
